@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# 데이터셋 (중요! GitHub에 올리지 않음)
+data/
+*.pkl
+*.pth
+*.pt
+checkpoints/
+
+# Mac
+.DS_Store
+
+# VS Code
+.vscode/
+
+# 환경
+.env
+venv/
+env/
